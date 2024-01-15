@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Nithin Bekal, a software developer based in Ottawa, Canada.
+
+- 📝 I write about programming at [nithinbekal.com](https://nithinbekal.com/)
+- 🐘 Mastodon: [nithinbekal@ruby.social](https://ruby.social/@nithinbekal)
+- 📸 Photos: [@nithinbekal on Instagram](https://www.instagram.com/nithinbekal)
+- 📚 Books: [Goodreads](https://www.goodreads.com/user/show/1059476-nithin-bekal)
+
 <!--
 **nithinbekal/nithinbekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
