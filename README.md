@@ -3,7 +3,7 @@
 - 🛒 I work at Shopify
 - 🍁 I live in Ottawa, Canada
 - 📝 Blog about programming at [nithinbekal.com](https://nithinbekal.com/)
-- 🐘 Mastodon: [@nithinbekal@ruby.social](https://ruby.social/@nithinbekal)
+- 🐘 Mastodon: [@nithinbekal@ruby.social](https://ruby.social/@nithinbekal) | Bsky: [@nithinbekal.bsky.social](https://bsky.app/profile/nithinbekal.bsky.social)
 - ✉️ [Goodreads](https://www.goodreads.com/user/show/1059476-nithin-bekal) ·
   [Instagram](https://www.instagram.com/nithinbekal) ·
   [LinkedIn](https://www.linkedin.com/in/nithinbekal/)
